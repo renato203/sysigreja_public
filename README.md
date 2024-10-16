@@ -11,6 +11,7 @@ Na tela principal do sistema da igreja, é apresentada uma visão geral das entr
 
 Resumo Geral: Abaixo dos gráficos, há uma seção de resumo com os totais de entradas e saídas no período selecionado, permitindo ao administrador ou responsável financeiro visualizar rapidamente a situação financeira atual da igreja.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Captura de tela 2024-10-16 091423](https://github.com/user-attachments/assets/9f6a91ab-f093-43a0-95cb-4ece19a4645c)
 
