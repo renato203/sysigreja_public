@@ -43,7 +43,7 @@ Essas três abas fornecem um fluxo simples e eficiente para o **gerenciamento de
 
 A tela destinada à gestão de dízimos e ofertas no sistema da igreja é organizada em duas abas principais: Dízimo e Oferta, cada uma com suas respectivas funcionalidades para registrar contribuições de maneira eficiente.
 
-1. Aba "Dízimo"
+Aba "Dízimo"
 Essa aba é focada no registro das contribuições de dízimo dos membros. O formulário inclui os seguintes campos:
 
 Seleção de Dizimista: Um campo de seleção com uma lista suspensa contendo o nome dos membros cadastrados. O administrador pode escolher o nome do dizimista que está realizando a contribuição.
@@ -87,3 +87,6 @@ R$ 1,00 x 8 = R$ 8,00
 3. Totais Calculados
 Total de Notas: Abaixo da lista de notas, o sistema exibe o total geral de cédulas já contabilizadas, somando todos os valores de notas multiplicados por suas respectivas quantidades.
 Total de Moedas: Da mesma forma, o sistema mostra o total geral de moedas, somando todas as moedas contabilizadas.
+
+
+Essas foram algumas das telas apresentas do sistema.
